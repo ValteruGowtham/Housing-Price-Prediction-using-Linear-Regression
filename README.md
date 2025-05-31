@@ -1,4 +1,4 @@
-# ValteruGowtham-Housing-Price-Prediction-using-Linear-Regression
+# Housing-Price-Prediction-using-Linear-Regression
 
 
 # 🏡 Housing Price Prediction
